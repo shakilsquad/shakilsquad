@@ -1,11 +1,8 @@
-
-
 <h1 align="center">Hi 👋, I'm Shakil</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt"conding" width"400" src="![image](https://user-images.githubusercontent.com/106030748/200169568-330c6990-b1bf-43c0-8467-5bb5d24bea13.png)
-">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilsquad&label=Profile%20views&color=0e75b6&style=flat" alt="shakilsquad" /> </p>
+
+<img align="right" alt="coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/169c11293f5c08a325ee1bbc8a0d4cb8.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilsquad" alt="shakilsquad" /></a> </p>
 
