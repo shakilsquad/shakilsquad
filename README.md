@@ -1,3 +1,5 @@
+<img align="center" alt="coding"   max-width="100%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/169c11293f5c08a325ee1bbc8a0d4cb8.gif">
+
 <h1 align="center">Hi 👋, I'm Shakil</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
