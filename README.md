@@ -36,3 +36,26 @@ Skills:  JS / HTML / CSS /Bootstrap
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shakilsquad)  
 
 ![Profile views](https://gpvc.arturio.dev/shakilsquad)  
+
+
+
+
+query userInfo($login: String!) {
+  user(login: $login) {
+    # fetch only owner repos & not forks
+    repositories(ownerAffiliations: OWNER, isFork: false, first: 100) {
+      nodes {
+        name
+        languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
+          edges {
+            size
+            node {
+              color
+              name
+            }
+          }
+        }
+      }
+    }
+  }
+}
