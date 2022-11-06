@@ -18,6 +18,10 @@ Skills:  JS / HTML / CSS /Bootstrap
 - 📫 How to reach me: freelancershakilsquad@gmail.com 
 - ⚡ Fun fact: Funny 
 
+<p align="center" >
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shakilsquad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Freelancershakilsquad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@freelancershakilsquad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/FreelancershakilS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebooklive.svg' alt='facebooklive' height='40'>](https://www.facebook.com/Vaiofficialshakil01996837138/) 
+</p>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shakilsquad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Freelancershakilsquad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@freelancershakilsquad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/FreelancershakilS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebooklive.svg' alt='facebooklive' height='40'>](https://www.facebook.com/Vaiofficialshakil01996837138/)  
 
