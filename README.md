@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
-<img align="right" alt="coding" width="350" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/169c11293f5c08a325ee1bbc8a0d4cb8.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilsquad" alt="shakilsquad" /></a> </p>
 
