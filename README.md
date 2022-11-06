@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Shakil</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img  src="https://i.ibb.co/t3HSqXv/Modern-Gaming-Cover-You-Tube-Channel-Art.jpg" alt="Modern-Gaming-Cover-You-Tube-Channel-Art" border="0">
+<img align="left" alt"conding" width"400" src="![image](https://user-images.githubusercontent.com/106030748/200169168-1668fe5d-1bc9-42d0-bc39-374b8c082a18.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilsquad&label=Profile%20views&color=0e75b6&style=flat" alt="shakilsquad" /> </p>
 
