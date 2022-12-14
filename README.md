@@ -1,8 +1,6 @@
 ![Fountain Developer ](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/283287235_428174265974367_3652594613579282773_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=5NXQZE8hpXwAX-6N582&_nc_ht=scontent.fdac5-1.fna&oh=00_AfDRdqPL26ZCyb7UG9cmvi0GGTE43bVFluR2ePs9QQRvXA&oe=636DA51B)
 
-### Hi  👋, I Am Shakil
-#### Fountain Developer 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F71149&background=FFC46200&width=435&lines=Hi+I+am+Shakil;Fountain+Developer++;Skills+%3A+JS+%2F+HTML+%2F+CSS+%2FBootstrap" alt="Typing SVG" /></a>
 
 
 Computer Science Engineering Student
