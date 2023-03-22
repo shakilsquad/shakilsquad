@@ -1,5 +1,6 @@
 <h2>Hi I'm Shakil</h2><img src="https://i.ibb.co/nRBKzmc/Blue-and-Orange-Gradient-Modern-Tech-Healthcare-and-Medical-X-Frame-Banner.png" alt="banner" width="100%"/><p>I'm a web developer and. I am creating web sites and web applications. I work with React most of the time. I have done more than 10 projects so far.
 </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F71149&background=FFC46200&width=435&lines=Hi+I+am+Shakil;Fountain+Developer++;Skills+%3A+JS+%2F+HTML+%2F+CSS+%2FBootstrap" alt="Typing SVG" /></a>
 
 
 Computer Science Engineering Student
@@ -7,7 +8,7 @@ Computer Science Engineering Student
 Html,Css,Bootstrap,Javascript
 
 
-Skills:  JS / HTML / CSS /Bootstrap 
+Skills:  JS / HTML / CSS /Bootstrap / Tailwind css
 
 - 🔭 I’m currently working on YouTube 
 - 🌱 I’m currently learning JavaScript 
@@ -15,6 +16,8 @@ Skills:  JS / HTML / CSS /Bootstrap
 - 💬 Ask me about Web-Developer 
 - 📫 How to reach me: freelancershakilsquad@gmail.com 
 - ⚡ Fun fact: Funny 
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shakilsquad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Freelancershakilsquad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@freelancershakilsquad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/FreelancershakilS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebooklive.svg' alt='facebooklive' height='40'>](https://www.facebook.com/Vaiofficialshakil01996837138/)  
@@ -33,5 +36,8 @@ Skills:  JS / HTML / CSS /Bootstrap
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shakilsquad)  
 
-![Profile views](https://gpvc.arturio.dev/shakilsquad)  
+![Profile views](https://gpvc.arturio.dev/shakilsquad) 
+
+Dear YouTube Team,
+I am a regular content creator on Youtube .And this is my video.I just his/her video clips according to the rules on "Fair Use" for my prupose .I know and follow YouTube's Gidelines properly.You can check my video agine and remove the strick from  my channel.
 
