@@ -1,4 +1,4 @@
-<h2>Hi I'm Nahid</h2><img src="https://i.ibb.co/nRBKzmc/Blue-and-Orange-Gradient-Modern-Tech-Healthcare-and-Medical-X-Frame-Banner.png" alt="banner" width="100%"/><p>I'm a web developer and UI designer. I am creating web sites and web applications. I work with React most of the time. I have done more than 20 projects so far.
+<h2>Hi I'm Shakil</h2><img src="https://i.ibb.co/nRBKzmc/Blue-and-Orange-Gradient-Modern-Tech-Healthcare-and-Medical-X-Frame-Banner.png" alt="banner" width="100%"/><p>I'm a web developer and. I am creating web sites and web applications. I work with React most of the time. I have done more than 10 projects so far.
 </p>
 
 
