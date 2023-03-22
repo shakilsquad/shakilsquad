@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-<img src="https://raw.githubusercontent.com/shakilsquad/img-host/main/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner.png?token=GHSAT0AAAAAAB746GU44EOCVXSWJION3MK2ZA3IYKQ" alt="Modern-Gaming-Cover-You-Tube-Channel-Art" width="100%" border="0">+
+  <img src="https://raw.githubusercontent.com/shakilsquad/img-host/main/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner.png?token=GHSAT0AAAAAAB746GU44EOCVXSWJION3MK2ZA3IYKQ" with="100%"/>
 </a>
 
 
@@ -38,3 +38,4 @@ Skills:  JS / HTML / CSS /Bootstrap
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shakilsquad)  
 
 ![Profile views](https://gpvc.arturio.dev/shakilsquad)  
+
