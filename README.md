@@ -1,5 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F71149&background=FFC46200&width=435&lines=Hi+I+am+Shakil;Fountain+Developer++;Skills+%3A+JS+%2F+HTML+%2F+CSS+%2FBootstrap" alt="Typing SVG" /></a>
-![Fountain Developer ](<img src="<a href="https://ibb.co/gZRM7g5"><img src="https://raw.githubusercontent.com/shakilsquad/img-host/main/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner.png?token=GHSAT0AAAAAAB746GU44EOCVXSWJION3MK2ZA3IYKQ" alt="Modern-Gaming-Cover-You-Tube-Channel-Art" width="100%" border="0"></a>" alt="Modern-Gaming-Cover-You-Tube-Channel-Art" border="0">)
+<a href="https://git.io/typing-svg">
+<img src="https://raw.githubusercontent.com/shakilsquad/img-host/main/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner.png?token=GHSAT0AAAAAAB746GU44EOCVXSWJION3MK2ZA3IYKQ" alt="Modern-Gaming-Cover-You-Tube-Channel-Art" width="100%" border="0">+
+</a>
 
 
 
@@ -37,4 +38,3 @@ Skills:  JS / HTML / CSS /Bootstrap
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shakilsquad)  
 
 ![Profile views](https://gpvc.arturio.dev/shakilsquad)  
-
