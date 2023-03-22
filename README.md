@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="[https://raw.githubusercontent.com/shakilsquad/img-host/main/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner.png?token=GHSAT0AAAAAAB746GU44EOCVXSWJION3MK2ZA3IYKQ](https://i.ibb.co/nRBKzmc/Blue-and-Orange-Gradient-Modern-Tech-Healthcare-and-Medical-X-Frame-Banner.png)" with="100%"/>
+  <img src="[https://raw.githubusercontent.com/shakilsquad/img-host/main/Blue%20and%20Orange%20Gradient%20Modern%20Tech%20Healthcare%20and%20Medical%20X-Frame%20Banner.png?token=GHSAT0AAAAAAB746GU44EOCVXSWJION3MK2ZA3IYKQ](https://i.ibb.co/nRBKzmc/Blue-and-Orange-Gradient-Modern-Tech-Healthcare-and-Medical-X-Frame-Banner.png)" alt="banner" with="100%"/>
 </a>
 
 
